@@ -2,7 +2,7 @@ export function Home() {
   return (
     <>
       <body>
-        <div className="container-fluid">
+        <div className="container">
           <div className="row ">
             {/* heading */}
             <div className="background">
